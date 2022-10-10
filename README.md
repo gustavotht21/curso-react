@@ -8,6 +8,8 @@ visualizar mais informações sobre as tarefas.
 
 ![preview.png](.github/preview.png)
 
+[Clique aqui para acessar](https://curso-react.gustavoborges8.repl.co/)
+
 ## Tecnologias 
 
 - Visual Studio Code

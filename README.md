@@ -2,14 +2,14 @@
 ![image.png](.github/preview.png)
 
 ## Índice
-* [Introdução](#⚙️-introdução)
-* [Tecnologias utilizadas](#🖥️-tecnologias-utilizadas)
-* [Ferramentas utilizadas](#🛠️-ferramentas-utilizadas)
-* [Serviços utilizados](#🧰-serviços-utilizados)
-* [Funcionalidades do projeto](#🪚-funcionalidades-do-projeto)
-* [Acesso ao projeto](#📂-acesso-ao-projeto)
-* [Autor](#👤-autor)
-* [Contato](#✉️-contato)
+* [Introdução](#-introdução)
+* [Tecnologias utilizadas](#-tecnologias-utilizadas)
+* [Ferramentas utilizadas](#-ferramentas-utilizadas)
+* [Serviços utilizados](#-serviços-utilizados)
+* [Funcionalidades do projeto](#-funcionalidades-do-projeto)
+* [Acesso ao projeto](#-acesso-ao-projeto)
+* [Autor](#-autor)
+* [Contato](#-contato)
 
 # 
 
